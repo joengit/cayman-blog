@@ -4,6 +4,6 @@ source 'https://rubygems.org'
 
 gem "jekyll-theme-cayman-blog"
 
-gem 'github-pages'
+gem "jekyll"
 
 gemspec
